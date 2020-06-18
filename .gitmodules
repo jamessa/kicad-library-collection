@@ -1,0 +1,36 @@
+[submodule "keebio/footprints"]
+	path = keebio/footprints
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "keebio/symbols"]
+	path = keebio/symbols
+	url = git@github.com:keebio/keebio-components.git
+[submodule "qmk/footprints"]
+	path = qmk/footprints
+	url = git@github.com:qmk/qmk_hardware.git
+[submodule "official/footprints"]
+	path = official/footprints
+	url = git@github.com:KiCad/kicad-footprints.git
+[submodule "official/3dmodels"]
+	path = official/3dmodels
+	url = git@github.com:KiCad/kicad-packages3D.git
+[submodule "official/symbols"]
+	path = official/symbols
+	url = git@github.com:KiCad/kicad-symbols.git
+[submodule "ai03/footprints/connectors"]
+	path = ai03/footprints/connectors
+	url = git@github.com:ai03-2725/Type-C.pretty.git
+[submodule "ai03/footprints/accessories"]
+	path = ai03/footprints/accessories
+	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "daprice/footprints/accessories"]
+	path = daprice/footprints/accessories
+	url = git@github.com:daprice/keyboard_accessories.pretty.git
+[submodule "daprice/footprints/switches"]
+	path = daprice/footprints/switches
+	url = git@github.com:daprice/keyswitches.pretty.git
+[submodule "sparkfun"]
+	path = sparkfun
+	url = git@github.com:sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "digikey"]
+	path = digikey
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
