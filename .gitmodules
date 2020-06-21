@@ -1,6 +1,6 @@
 [submodule "keebio/footprints"]
 	path = keebio/footprints
-	url = git@github.com:keebio/Keebio-Parts.pretty.git
+	url = git@github.com:jamessa/Keebio-Parts.pretty.git
 [submodule "keebio/symbols"]
 	path = keebio/symbols
 	url = git@github.com:keebio/keebio-components.git
