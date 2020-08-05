@@ -34,3 +34,6 @@
 [submodule "digikey"]
 	path = digikey
 	url = git@github.com:Digi-Key/digikey-kicad-library.git
+[submodule "Acheron"]
+	path = Acheron
+	url = git@github.com:AcheronProject/AcheronLibrary.git
