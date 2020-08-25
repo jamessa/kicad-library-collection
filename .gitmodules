@@ -37,3 +37,6 @@
 [submodule "Acheron"]
 	path = Acheron
 	url = git@github.com:AcheronProject/AcheronLibrary.git
+[submodule "JSA"]
+	path = JSA
+	url = git@github.com:jamessa/kicad-library-jsa.git
