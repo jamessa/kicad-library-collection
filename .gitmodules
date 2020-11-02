@@ -40,3 +40,6 @@
 [submodule "JSA"]
 	path = JSA
 	url = git@github.com:jamessa/kicad-library-jsa.git
+[submodule "octopart"]
+	path = octopart
+	url = git@github.com:octopart/CPL-KiCad-Library.git
